@@ -1,0 +1,9 @@
+--- #YAML:1.0
+name: Presto
+version: 0.01
+author:
+  - Rob Kinyon E<lt>rob@iinteractive.comE<gt>
+  - Stevan Little E<lt>stevan@iinteractive.comE<gt>
+abstract: An Object Oriented Database System for Perl
+license: perl
+generated_by: Module::Build version 0.2612, without YAML.pm
